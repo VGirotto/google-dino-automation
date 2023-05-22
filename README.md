@@ -5,3 +5,4 @@
 O **relatório** apresenta o desenvolvimento e os resultados obtidos, sendo que esse último pode ser observado, também, no **vídeo**.
 
 ![dino](dino.png)
+
