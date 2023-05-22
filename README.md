@@ -4,5 +4,4 @@
 
 O **relatório** apresenta o desenvolvimento e os resultados obtidos, sendo que esse último pode ser observado, também, no **vídeo**.
 
-![dino](dino.png)
-
+https://github.com/VGirotto/google-dino-automation/assets/39141480/43729439-3641-465a-91bc-17edd266383f
